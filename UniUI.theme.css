@@ -1,0 +1,16 @@
+//META{"name":"UniUI","description":"UniUI by Zepy","author":"Zepy","version":"1.0"}*//
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+--themeColor1: #00a34f;
+--themeColor2: #ccc500;
+--font: 'impact', sans-serif;
+--customFont: 'Open Sans', sans-serif;
+--homeImage: url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/113481722/original/d5ccebc49536493d00b6b1c1943cc671bc2e6de7/make-a-logo-for-your-discord-server-or-game-group.png');
+--backgroundColor: #000000;
+--backgroundImage: url('https://wallup.net/wp-content/uploads/2017/03/28/446401-Firewatch-video_games-landscape.jpg');
+--backgroundBlur: 29px;
+--backgroundOpacity: 0.5;
+}
